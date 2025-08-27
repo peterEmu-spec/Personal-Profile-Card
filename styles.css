@@ -1,0 +1,19 @@
+.paragraph {
+color: #243504;
+
+padding-left: 500px;
+}
+.heading{
+    text-align: center;
+    color: green;
+    border: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.border{
+   
+    padding-left: 500px;
+}
+img{float: left;
+      
+}
+
